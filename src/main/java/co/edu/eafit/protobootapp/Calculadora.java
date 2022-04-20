@@ -6,6 +6,7 @@ public class Calculadora {
         return numero * numero;
     }
     
+    
     public Double cubo(Double numero) {
         return numero * numero * numero;
     }
