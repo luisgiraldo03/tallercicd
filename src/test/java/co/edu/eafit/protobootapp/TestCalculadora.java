@@ -19,6 +19,7 @@ public class TestCalculadora {
         assertEquals(0.0, calc.cuadrado(0.0), 0);
     }
 
+    
     @Test
     public void testCuadradoUno() {
         Calculadora calc = new Calculadora();
