@@ -19,6 +19,7 @@ public class HttpRequestTest {
 
     @Autowired
     private TestRestTemplate restTemplate;
+    
 
     @Test
     public void testSaludoPorDefecto() throws Exception {
